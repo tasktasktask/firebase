@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/tasktasktask/firebase/issues"
   },
-  "homepage": "https://github.com/tasktasktask/firebase#readme"
+  "homepage": "https://github.com/tasktasktask/firebase#readme",
+  "dependencies": {
+    "firebase": "^9.11.0"
+  }
 }
